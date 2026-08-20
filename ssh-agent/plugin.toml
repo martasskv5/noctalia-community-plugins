@@ -104,4 +104,4 @@ entry = "panel.luau"
 # width = 480
 # height = 340
 placement = "attached"
-position = "near-trigger"
+position = "auto"
