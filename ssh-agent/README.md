@@ -13,6 +13,7 @@ Manage your SSH keys and saved sessions directly from the Noctalia bar. This plu
 
 Install the following on `PATH` for the plugin to work correctly:
 
+- `ssh`
 - `ssh-agent`
 - `ssh-add`
 - `zenity`
